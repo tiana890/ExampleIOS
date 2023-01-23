@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9C3444DF290951B6009720C9 /* Action.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3444DE290951B6009720C9 /* Action.swift */; };
 		9C3444ED29112360009720C9 /* CasePaths in Frameworks */ = {isa = PBXBuildFile; productRef = 9C3444EC29112360009720C9 /* CasePaths */; };
+		9C5890AF297EAC02004FAC12 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C5890AE297EAC02004FAC12 /* SwiftUIView.swift */; };
 		9CC61F1928ED843D005F5388 /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC61F1828ED843C005F5388 /* Store.swift */; };
 		9CC61F1B28F42FA2005F5388 /* AppReducer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC61F1A28F42FA2005F5388 /* AppReducer.swift */; };
 		9CC61F1D28F7E83C005F5388 /* NthPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC61F1C28F7E83C005F5388 /* NthPrime.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		9C3444DE290951B6009720C9 /* Action.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Action.swift; sourceTree = "<group>"; };
+		9C5890AE297EAC02004FAC12 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		9CC61F1828ED843C005F5388 /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
 		9CC61F1A28F42FA2005F5388 /* AppReducer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppReducer.swift; sourceTree = "<group>"; };
 		9CC61F1C28F7E83C005F5388 /* NthPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthPrime.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				9CF235BB28E2EBD10045B8A1 /* PrimeNumberApp.swift */,
 				9CF235BD28E2EBD10045B8A1 /* ContentView.swift */,
 				9CF235C928E2EDC30045B8A1 /* CounterView.swift */,
+				9C5890AE297EAC02004FAC12 /* SwiftUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				9C3444DF290951B6009720C9 /* Action.swift in Sources */,
 				9CF235BE28E2EBD10045B8A1 /* ContentView.swift in Sources */,
 				9CF235BC28E2EBD10045B8A1 /* PrimeNumberApp.swift in Sources */,
+				9C5890AF297EAC02004FAC12 /* SwiftUIView.swift in Sources */,
 				9CF235CE28E304040045B8A1 /* FavoritePrimesView.swift in Sources */,
 				9CC61F1928ED843D005F5388 /* Store.swift in Sources */,
 				9CF235CA28E2EDC30045B8A1 /* CounterView.swift in Sources */,
